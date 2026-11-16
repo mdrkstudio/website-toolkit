@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.build/
+.swiftpm/
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+output/
+.env*
+.DS_Store
+build/
