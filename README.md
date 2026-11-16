@@ -4,7 +4,10 @@ Swift-библиотека обработки сайтов, выделенная
 
 Автор: [Марк / MDRK Studio](https://mdrkstudio.ru).
 
-![Website Toolkit](docs/demo.gif)
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="docs/demo.gif">
+  <img src="docs/demo-poster.png" alt="Website Toolkit" width="960" height="680">
+</picture>
 
 ## Возможности
 
